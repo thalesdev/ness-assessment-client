@@ -8,7 +8,6 @@ export default function Home() {
 				<title>Devel - Dashboard</title>
 			</Head>
 			<DashboardPage>
-				asdasdasd
 			</DashboardPage>
 		</>
 	)
